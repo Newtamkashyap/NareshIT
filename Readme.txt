@@ -1,6 +1,7 @@
 # NareshIT Website
 
-![NareshIT](https://github.com/Newtamkashyap/NareshIT/blob/master/nareshit2.jpg)
+
+ ![NareshIT](https://github.com/Newtamkashyap/NareshIT/blob/master/nareshit2.jpg)
  
 
  ## TECHNOLOGIES USED:

@@ -13,13 +13,15 @@
 <img src= "images\naresh1.png" class="image" alt="no image">
 <a href="https://nareshit.com/">Login</a>
 </div>
-<div class="section1">
+<div class="section">
 </div>
 <div>
 <img src="images\naresh.jpg" height="70%" width="100%" alt="no image">
 </div>
 
+
 <h2>Our's <strong>services</strong></h2>
+
 
 <img src="images\classroom1.png" height="50px" width="50px"alt="no image"><br>
 <span>CLASSROOM TRAINING</span>
@@ -41,20 +43,6 @@ across the Software Industries around the Globe.</pre>
 <pre>Exclusively Training Programs Designed for Working 
   Professionals from IT &amp; Non-IT Backgrounds.</pre>
 <hr>
-<section class="pic-size">
-<img src="images\image1.png" height="20%" width="15%>
-<img src="images\image2.png" height="20%" width="15%">
-<img src="images\image3.jpeg" height="20%" width="15%">
-<img src="images\image4.jpeg" height="20%" width="15%">
-<img src="images\image5.png" height="20%" width="15%"> 
-<img src="images\image6.png" height="20%" width="15%">
-<img src="images\image7.png" height="20%" width="15%">
-<img src="images\image8.png" height="20%" width="15%">
-<img src="images\image9.jpeg" height="20%" width="15%">
-<img src="images\image10.png" height="20%" width="15%">
-<img src="images\image11.png" height="20%" width="15%">
-
-</section>
 </body>
 
 </html>
