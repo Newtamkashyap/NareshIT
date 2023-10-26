@@ -1,0 +1,68 @@
+<html>
+<head>
+<title>Best Online Traning Institute-Best Software Traning Institute</title>
+<link rel="stylesheet" href="MyWebSite.css">
+<link rel="icon" href="images\icon.jpg">
+</head>
+<body>
+<div> 
+<p class="first-para">India's No.1 Software Training Institute  Online Courses, Trainings, Real-Time Projects &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hydrerabad | Chennai | USA | Online Training</p>
+</div>
+
+<div>
+<img src= "images\naresh1.png" class="image" alt="no image">
+<a href="https://nareshit.com/">Login</a>
+</div>
+<div class="section1">
+</div>
+<div>
+<img src="images\naresh.jpg" height="70%" width="100%" alt="no image">
+</div>
+
+<h2>Our's <strong>services</strong></h2>
+
+<div>
+<img src="images\classroom1.png" height="50px" width="50px"alt="no image" style="display:inline-block;"><br>
+<span>CLASSROOM TRAINING</span>
+<Pre>Quality Training by Experts of various Technologies to 
+ suit aspirants&nbsp;from a different academic profile.</Pre>
+</div>
+
+<div>
+<img src="images\Online-training.png" height="50px" width="50px"alt="no image" style="display:inline-block;"><br>
+<span>ONLINE TRAINING</span>
+<pre>Experienced Faculty team provides the training suitable
+        for all aspiring IT Professionals.</pre>
+</div>
+
+<div>
+<img src="images\software-industry-1.png" height="50px" width="50px"alt="no image"><br>
+<span>CORPORATE TRAINING</span>
+<pre>Customized Courses to meet Client Requirements
+across the Software Industries around the Globe.</pre>
+</div>
+
+<div>
+<img src="images\weekends.png" height="50px" width="50px"alt="no image"><br>
+<span>WEEKEND TRAINING</span>
+<pre>Exclusively Training Programs Designed for Working 
+  Professionals from IT &amp; Non-IT Backgrounds.</pre>
+</div>
+<hr>
+<section class="pic-size">
+<img src="images\image1.png" height="20%" width="15%">
+<img src="images\image2.png" height="20%" width="15%">
+<img src="images\image3.jpeg" height="20%" width="15%">
+<img src="images\image4.jpeg" height="20%" width="15%">
+<img src="images\image5.png" height="20%" width="15%"> 
+<img src="images\image6.png" height="20%" width="15%">
+<img src="images\image7.png" height="20%" width="15%">
+<img src="images\image8.png" height="20%" width="15%">
+<img src="images\image9.jpeg" height="20%" width="15%">
+<img src="images\image10.png" height="20%" width="15%">
+<img src="images\image11.png" height="20%" width="15%">
+
+</section>
+</body>
+
+</html>

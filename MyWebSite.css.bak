@@ -29,7 +29,7 @@ float:left;
 }
 
 
-.main-img{
+main-img{
 height:65%;
 width:10%;
 padding:0px;
